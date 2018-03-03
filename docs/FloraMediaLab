@@ -1,0 +1,48 @@
+[See in english below](#the-journey-of-food-to-your-pantry)
+
+UPDATE : this project uses a new repository, you can access it [here](https://github.com/soydetemporada/).  
+
+# Soy de temporada
+##### Proyecto seleccionado para el taller "Visualizar 17" del Medialab Prado
+
+## Índice
+
+* [El proyecto](#el-proyecto)
+* [Descripción detallada](#descripción-detallada)
+   * [Análisis de la situación](#análisis-de-la-situación)
+   * [Los datos](#los-datos)
+   * [La herramienta](#la-herramienta)
+* [Referencias](#referencias)
+* [Equipo](#equipo)
+* [Mentores](#mentores)
+
+## El proyecto
+Desde hace décadas, los habitantes de centros urbanos se desconectaron del mundo agrícola y del ritmo natural de la tierra.  
+Sea verano o invierno, sur o norte, hoy en día en Europa siempre hay fruta exótica en los estantes de supermercados.  
+Hay dos maneras de tener todo tipo de fruta y verdura todo el año: **importando** o **cultivando en invernaderos climatizados**.  
+Los dos métodos generan gases de efecto invernadero, destrozando cada vez más el medio ambiente.  
+  
+Aunque en España se producen muchas variedades de frutas y hortalizas, seguimos encontrando productos importados en los mercados,  
+no por una razón de calidad ni de existencias sino simplemente **por razones económicas**.  
+Llegamos a una situación surrealista donde alimentos producidos en el país se exportan y a la vez se importan los mismos alimentos  
+de otros países que tienen menos regulaciones laborales y costes salariales más bajos.  
+Es el caso por ejemplo de las naranjas: se exportan en grandes cantidades a toda Europa y a la vez, se importan miles de toneladas  
+de Marruecos.
+  
+Alimentos que han viajado millares de kilómetros y han sido conservados durante el camino tienen una **calidad mucho menor**  
+que la de los producidos localmente.  
+Sin embargo, estamos tan acostumbrados a tenerlos en cualquier época que nos olvidamos del ciclo natural de las plantas.  
+Hay que ser conscientes que los alimentos importados o de fuera de temporada que consumimos tienen una **huella ecológica muy grande**.  
+Debemos deshacernos de la comodidad a la que nos hemos acostumbrado y volver a consumir como lo hacían nuestros abuelos:  
+**siguiendo el ritmo de la naturaleza**.
+
+Ahora, ¿*cómo saber qué comer y cuándo*? Buscando calendarios en la web, uno se enfrenta a una gran mezcla de datos e informaciones  
+contradictorias. La razón es que hay **diferentes variables** para elaborar un calendario de temporada y cada autor escoge  
+las que tener en cuenta: el clima local o nacional, el cultivo en invernadero o al aire libre, el invernadero  
+con o sin climatización, etcétera. Es necesaria una herramienta que permita saber **qué comer de cultivo local y de temporada**. 
+Este proyecto tiene por objetivo elaborar una aplicación que permita saber con precisión qué frutas y verduras se están cosechando  
+en cada *región de España* según la *época* y el *tipo de cultivo*.  
+Así aportamos una herramienta para quien quiera consumir responsablemente, limitando el transporte excesivo de alimentos y  
+el cultivo en invernaderos climatizados.
+
+
