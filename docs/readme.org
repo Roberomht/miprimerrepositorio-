@@ -1,4 +1,6 @@
-<html><body>
+<html>
+// nombre original: UsoDatosDBPedia.html
+<body>
 <div id="mapdiv"></div>
 <script src="http://www.openlayers.org/api/OpenLayers.js"></script>
 <script>
